@@ -1,1 +1,3 @@
-# browser-automation
+# Browser Automation
+
+This repository is a collection of scripts that I have written for automating various tasks. Unless otherwise noted, these scripts require [Selenium Webdriver](https://pypi.org/project/selenium/) and [Python 3](https://www.python.org/downloads/) to run. Most will use [Firefox](https://support.mozilla.org/en-US/kb/install-firefox-linux), which requires [Gecko Webdriver](https://github.com/mozilla/geckodriver). At the time of writing, the [Vivaldi](https://vivaldi.com/) scripts use [Chrome Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 89, but this may change when Vivaldi updates to a newer version of Chromium.
